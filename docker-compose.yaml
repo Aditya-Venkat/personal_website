@@ -5,5 +5,7 @@ services:
     volumes: [ .:/usr/src/app ]
     ports: [ 4000:4000 ]
     user: 1000:1000
-    environment: [ JEKYLL_ENV=docker ]
+    # Force polling so inotify events from the host are detected correctly when using
+    # bind mounts. This avoids needing to kill/restart the server to see changes.
+    environment: [ JEKYLL_ENV=docker, LISTEN_FORCE_POLLING=true ]
     command: jekyll serve -H 0.0.0.0 -w --config _config.yml,_config_docker.yml
