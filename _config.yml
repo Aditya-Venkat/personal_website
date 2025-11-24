@@ -13,9 +13,9 @@ title                    : "Aditya V's Homepage"
 title_separator          : "-"
 name                     : &name "Aditya V"
 description              : &description "Aditya V's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://Aditya-Venkat/personal_website.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://aditya-venkat.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://aditya-venkat.github.io/personal_website " # the subpath of your site, e.g. "/blog"
 repository               : "Aditya-Venkat/personal_website"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
