@@ -19,23 +19,49 @@ I have worked across several domains, ranging from *spatial transcriptomics benc
 ---
 
 <style>
+/* Theme-aware research cards */
 .research-card {
-  background-color: #f9fafb;
-  border: 1px solid #e5e7eb;
+  background-color: var(--card-bg);
+  border: 1px solid var(--card-border);
   border-radius: 1rem;
   padding: 1.2rem 1.5rem;
   margin-bottom: 1.5rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 6px var(--card-shadow);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  color: var(--card-text);
 }
+
 .research-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+  box-shadow: 0 6px 12px var(--card-hover-shadow);
 }
+
 .research-card h3 {
   margin-top: 0;
+  color: var(--card-heading);
+}
+
+/* LIGHT MODE COLORS */
+:root {
+  --card-bg: #f9fafb;
+  --card-border: #e5e7eb;
+  --card-shadow: rgba(0, 0, 0, 0.05);
+  --card-hover-shadow: rgba(0, 0, 0, 0.08);
+  --card-text: #1f2937;      /* dark grey */
+  --card-heading: #111827;  /* near-black */
+}
+
+/* DARK MODE COLORS (Minimal Mistakes toggles html.dark) */
+html.dark {
+  --card-bg: #1f1f1f;
+  --card-border: #3a3a3a;
+  --card-shadow: rgba(255,255,255,0.05);
+  --card-hover-shadow: rgba(255,255,255,0.08);
+  --card-text: #e5e5e5;      /* light grey */
+  --card-heading: #ffffff;   /* white */
 }
 </style>
+
 
 ---
 
@@ -56,6 +82,11 @@ I have worked across several domains, ranging from *spatial transcriptomics benc
 ">
 Code will be released upon publication
 </span>
+<br>
+<a href="{{ '/files/RECOMB_poster.pdf' | relative_url }}" target="_blank">
+  🔗 Poster
+</a>
+
 </div>
 
 ---
