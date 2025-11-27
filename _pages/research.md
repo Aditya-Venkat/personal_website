@@ -5,7 +5,9 @@ author_profile: true
 ---
 
 ## Publications & Posters
-- **Benchmarking of Spatial Transcriptomics Methodologies** — Poster, *RECOMB 2025 (Seoul)*; manuscript nearing completion (link will be updated soon)
+- **Benchmarking of Spatial Transcriptomics Methodologies** — <a href="{{ '/files/RECOMB_poster.pdf' | relative_url }}" target="_blank">
+  Poster, *RECOMB 2025 (Seoul)*
+</a>; manuscript nearing completion (link will be updated soon)
 - **Bayesian Extensions to Bivariate Load-Sharing Models** — Manuscript under preparation (link will be updated soon)
 
 ---
@@ -83,10 +85,6 @@ html.dark {
 Code will be released upon publication
 </span>
 <br>
-<a href="{{ '/files/RECOMB_poster.pdf' | relative_url }}" target="_blank">
-  🔗 Poster
-</a>
-
 </div>
 
 ---
