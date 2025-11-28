@@ -1,7 +1,7 @@
 ---
 title: "Temptations"
 summary: >
-  I wrote this story in my fresher year of university for a writing competition. The metaphor is inspired from an indie game, the name of which I can't seem to remember for the life of me, but it was just too beautiful for me to not try to give it my own spin. Happy reading !
+  I wrote this story in my fresher year of college for a writing competition. The metaphor is inspired from an indie game, the name of which I cannot remember for the life of me, and it was just too beautiful for me to not giving it my own spin. Happy reading !
 date: 2024-11-20
 ---
 

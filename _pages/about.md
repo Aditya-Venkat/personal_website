@@ -11,6 +11,15 @@ I am Aditya V, a final-year undergraduate student pursuing Statistics and Data S
 My academic and research interests lie at the intersection of Bayesian statistics, probabilistic machine learning, and computational genomics. I am passionate about developing interpretable, statistically rigorous methods to understand genetic mechanisms, disease progression, and survival phenomena.
 
 Outside research, I have previously led the **Debating Society at IIT Kanpur**, where I have organized multiple national tournaments, trained new debaters and broken at numerous tournaments. I am a prolific reader and enjoy writing short stories as well. I am also an ardent music enthusiast - with a particular liking for hip hop and classical music and I have obtained certificates of distinction in the piano from Trinity College London.
+---
+
+## 🏛 Education
+**Indian Institute of Technology Kanpur**  
+*B.S. in Statistics and Data Science (Honours Track)* | *Minor: Machine Learning and Applications*  
+**CPI:** 9.4 / 10  
+**Awards:** Academic Excellence Award (2022, 2023, 2024)  
+2022 – 2026
+
 
 ## 🔬 Research Interests
 My research interests broadly span:
@@ -35,14 +44,5 @@ My research interests broadly span:
 **Undergraduate Researcher, IIT Kanpur** — *Sep 2023 – Present*  
 - Working on benchmarking and developing methods for **spatial deconvolution** and **spatial domain detection** in transcriptomic data under Prof. Hamim Zafar.  
 - Developing Bayesian models for **bivariate load-sharing processes** with MCMC-based inference under Prof. Debasis Kundu.
-
----
-
-## 🏛 Education
-**Indian Institute of Technology Kanpur**  
-*B.S. in Statistics and Data Science (Honours Track)* | *Minor: Machine Learning and Applications*  
-**CPI:** 9.4 / 10  
-**Awards:** Academic Excellence Award (2022, 2023, 2024)  
-2022 – 2026
 
 ---

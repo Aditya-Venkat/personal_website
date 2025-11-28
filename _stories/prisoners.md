@@ -1,10 +1,9 @@
 ---
 title: "Prisoners of Fate"
 summary: >
-  A reflective piece on the power of circumstance to imprison. I make no attempt
-  to claim to be an expert on the setting the story is set in, and I apologize
+  A reflective piece on the power of circumstance to imprison. I do not claim to be an expert on the period this story is set in, and I apologize
   if I got details wrong, or if sentiments are unintentionally hurt. The focus
-  is not on the setting, but rather the setting is a lens to explore an aspect
+  is not the setting, but rather the setting is a lens to explore an aspect
   of human character.
 date: 2024-11-20
 ---
