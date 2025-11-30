@@ -5,10 +5,19 @@ author_profile: true
 ---
 
 ## Publications & Posters
-- **Benchmarking of Spatial Transcriptomics Methodologies** — <a href="{{ '/files/RECOMB_poster.pdf' | relative_url }}" target="_blank">
-  Poster, *RECOMB 2025 (Seoul)*
-</a>; manuscript nearing completion (link will be updated soon)
-- **Bayesian Extensions to Bivariate Load-Sharing Models** — Manuscript under preparation (link will be updated soon)
+
+**Benchmarking of Spatial Transcriptomics Methodologies**  
+Ajita Shree, *Aditya V*, Tanush Kumar, Hamim Zafar  
+Comprehensive benchmarking of 20+ spatial transcriptomics methods across simulated and real datasets, introducing new evaluation metrics and simulation techniques.  
+Poster accepted at **RECOMB 2025, Seoul**  
+<a href="{{ '/files/RECOMB_poster.pdf' | relative_url }}" target="_blank"><em>Poster (PDF)</em></a> • (BioRxiv preprint coming soon)
+
+---
+
+**A Bayesian Bivariate Load-Sharing Model**  
+*Aditya V*, Debasis Kundu  
+A Bayesian extension of classical bivariate load-sharing models, enabling inference under multiple baseline hazard distributions with MCMC-based uncertainty quantification and credible interval estimation for reliability parameters.  
+*(Manuscript under preparation)*
 
 ---
 
