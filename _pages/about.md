@@ -37,7 +37,7 @@ My research interests broadly span:
 - Designed and implemented automated models to recommend organizational restructuring actions, improving margins across 40+ client accounts.  
 - Applied quantitative estimation frameworks (“size of prize”) under limited data scenarios and developed account-level cost segmentation models.
 
-**Research Intern, TenSixty Bio (Stanford-founded Biotech)** — *Remote, Jun–Jul 2024*  
+**Research Intern, TenSixty Bio** — *Remote, Jun–Aug 2024*  
 - Built computer vision and AWS-based data pipelines to quantify antibody expression in stained tissue samples for lung cancer therapy.  
 - Parsed and annotated genomic datasets from UniProtKB, identifying over 800 candidate proteins for therapeutic antibody design.  
 - Contributed to a data analysis pipeline currently used in internal screening tests for candidate antibodies.
