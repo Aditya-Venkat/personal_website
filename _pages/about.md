@@ -7,18 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-I am Aditya V, a final-year undergraduate student pursuing Statistics and Data Science at IIT Kanpur, **pursuing a B.S. (Honours) with a minor in Machine Learning and Applications**.  
+I am Aditya V, a first-year graduate student pursuing a **Statistics Master at ETH Zürich**. I recently completed my **Bachelors in Statistics and Data Science** with a minor in **Machine Learning and its Applications** from the **Indian Institute of Technology Kanpur**, where I graduated at the top of my class with honors, and was recognized with the **Director's Gold Medal** for all-round achievement.
+
 My academic and research interests lie at the intersection of Bayesian statistics, probabilistic machine learning, and computational genomics. I am passionate about developing interpretable, statistically rigorous methods to understand genetic mechanisms, disease progression, and survival phenomena.
 
-Outside research, I have previously led the **Debating Society at IIT Kanpur**, where I have organized multiple national tournaments, trained new debaters and broken at numerous tournaments. I am a prolific reader and enjoy writing short stories as well. I am also an ardent music enthusiast - with a particular liking for hip hop and classical music and I have obtained certificates of distinction in the piano from Trinity College London.
+Outside of research, I am curious and deeply interested in the far-reaching applications of statistics and machine learning and am eager to pursure opportunities in domains like finance and Artifical Intelligence.
+
+I have previously led the **Debating Society at IIT Kanpur**, where I have organized multiple national tournaments, trained new debaters and broken at numerous tournaments. I am a prolific reader and enjoy writing short stories as well. I am also an ardent music enthusiast - with a particular liking for hip hop and classical music and I have obtained certificates of distinction in the piano from Trinity College London.
 
 ---
 
 ## 🏛 Education
+
+**ETH Zürich**
+*Statistics Master*
+2026 - present
+
 **Indian Institute of Technology Kanpur**  
 *B.S. in Statistics and Data Science (Honours Track)* | *Minor: Machine Learning and Applications*  
-**CPI:** 9.4 / 10  
-**Awards:** Academic Excellence Award (2022, 2023, 2024)  
+**CPI:** 9.5 / 10  
+**Awards:** 
+Director's Gold Medal
+General Proficiency Medal
+Academic Excellence Award (2022, 2023, 2024, 2025)
 2022 – 2026
 
 
