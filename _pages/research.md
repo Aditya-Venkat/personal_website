@@ -110,8 +110,6 @@ html.dark {
 
 ---
 
----
-
 <div class="research-card">
 
 <h3>Benchmarking of Spatial Transcriptomics Methodologies</h3>
