@@ -21,17 +21,20 @@ I have previously led the **Debating Society at IIT Kanpur**, where I have organ
 
 **ETH Zürich**
 *Statistics Master*
+
 2026 - present
 
 **Indian Institute of Technology Kanpur**  
 *B.S. in Statistics and Data Science (Honours Track)* | *Minor: Machine Learning and Applications*  
 **CPI:** 9.5 / 10  
 **Awards:** 
-Director's Gold Medal
-General Proficiency Medal
-Academic Excellence Award (2022, 2023, 2024, 2025)
+- Director's Gold Medal
+- General Proficiency Medal
+- Academic Excellence Award (2022, 2023, 2024, 2025)
+
 2022 – 2026
 
+---
 
 ## 🔬 Research Interests
 My research interests broadly span:
