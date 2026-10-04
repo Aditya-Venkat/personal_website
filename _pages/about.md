@@ -20,12 +20,12 @@ I have previously led the **Debating Society at IIT Kanpur**, where I have organ
 ## 🏛 Education
 
 **ETH Zürich**
-*Statistics Master*
+*Statistics Master*\
 2026 - present
 
 **Indian Institute of Technology Kanpur**  
-*B.S. in Statistics and Data Science (Honours Track)* | *Minor: Machine Learning and Applications*  
-2022 – 2026
+*B.S. in Statistics and Data Science (Honours Track)* | *Minor: Machine Learning and Applications*\
+2022 – 2026\
 **CPI:** 9.5 / 10  
 **Awards:** 
 - Director's Gold Medal
