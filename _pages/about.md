@@ -9,9 +9,7 @@ redirect_from:
 
 I am Aditya V, a first-year graduate student pursuing a **Statistics Master at ETH Zürich**. I recently completed my **Bachelors in Statistics and Data Science** with a minor in **Machine Learning and its Applications** from the **Indian Institute of Technology Kanpur**, where I graduated at the top of my class with honors, and was recognized with the **Director's Gold Medal** for all-round achievement.
 
-My academic and research interests lie at the intersection of Bayesian statistics, probabilistic machine learning, and computational genomics. I am passionate about developing interpretable, statistically rigorous methods to understand genetic mechanisms, disease progression, and survival phenomena.
-
-Outside of research, I am curious and deeply interested in the far-reaching applications of statistics and machine learning and am eager to pursure opportunities in domains like finance and Artifical Intelligence.
+My academic and research interests lie at the intersection of Bayesian statistics, probabilistic machine learning, and computational genomics. I am passionate about developing interpretable, statistically rigorous methods to understand complex biological processes, disease progression, and survival phenomena. Having also completed coursework in diverse fields like mathematical finance and operations research, alongside a strong base in mathematics, statistics and machine learning, I am actively seeking opportunities across the finance, healthcare, and artificial intelligence sectors.
 
 I have previously led the **Debating Society at IIT Kanpur**, where I have organized multiple national tournaments, trained new debaters and broken at numerous tournaments. I am a prolific reader and enjoy writing short stories as well. I am also an ardent music enthusiast - with a particular liking for hip hop and classical music and I have obtained certificates of distinction in the piano from Trinity College London.
 
